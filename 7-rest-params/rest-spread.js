@@ -14,7 +14,7 @@ push(planets, "Mercury", "Venus", "Earth", "Mars"); // rest parameters
 
 // Spread operator "...weblink"
 function createURL (comment, path, protocol, subdomain, domain, tld) {
-      var shoutout = name
+      var shoutout = comment
         + ": "
         + protocol
         + "://"
